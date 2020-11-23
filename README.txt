@@ -17,7 +17,7 @@ https://data.wprdc.org/dataset/smart-trash-containers
 
 
 for reference, 75b83...csv is the smart trash containers,
-           and 00d74...csv is the trees,
+           and 00d74...csv is the art,
            and Neighborhoods_with_SNAP_Data.csv is the variety data
            
 ABSTRACT
